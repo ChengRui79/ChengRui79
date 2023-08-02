@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://access-counter-green.vercel.app/api/counter?name=ChengRui79" />
 
 <!--
 **ChengRui79/ChengRui79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
