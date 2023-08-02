@@ -1,5 +1,5 @@
 <img src="https://leafming.eu.org/api/counter?name=ChengRui79&length=6&theme=001" />
-
+![](https://antidote.eu.org/graph?username=chengrui79&theme=github&height=320)
 <!--
 **ChengRui79/ChengRui79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
